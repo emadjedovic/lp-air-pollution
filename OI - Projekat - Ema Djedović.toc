@@ -1,0 +1,18 @@
+\babel@toc {croatian}{}\relax 
+\contentsline {section}{Uvod}{1}{section*.2}%
+\contentsline {paragraph}{}{1}{section*.3}%
+\contentsline {paragraph}{}{1}{section*.4}%
+\contentsline {paragraph}{}{1}{section*.5}%
+\contentsline {paragraph}{}{1}{section*.6}%
+\contentsline {paragraph}{}{1}{section*.7}%
+\contentsline {section}{Korak I}{2}{section*.8}%
+\contentsline {section}{Korak II}{4}{section*.12}%
+\contentsline {section}{Korak III}{6}{section*.16}%
+\contentsline {section}{Korak IV}{8}{section*.20}%
+\contentsline {section}{Zaključak}{10}{section*.24}%
+\contentsline {section}{Sažetak}{13}{section*.28}%
+\contentsline {paragraph}{}{13}{section*.29}%
+\contentsline {paragraph}{}{13}{section*.30}%
+\contentsline {paragraph}{}{13}{section*.31}%
+\contentsline {paragraph}{}{13}{section*.32}%
+\contentsline {section}{Izvori}{14}{section*.33}%
