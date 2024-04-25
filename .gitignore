@@ -3,5 +3,6 @@
 *.out
 *.toc
 *.synctex
+*.synctex.gz
 *.txt
 *.tex
